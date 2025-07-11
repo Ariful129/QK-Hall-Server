@@ -198,7 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ariful Islam**
 - GitHub: [@Ariful129](https://github.com/Ariful129)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [your-email@example.com](arif.cuet129@gmail.com)
 
 
 
