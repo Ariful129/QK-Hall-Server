@@ -51,7 +51,7 @@ A comprehensive hall management system built with the MERN stack (MongoDB, Expre
 
 **Deployment:**
 - Firebase Hosting (Frontend)
-- Backend deployment platform (specify your platform)
+- Backend deployment platform (versel)
 
 ## 📦 Prerequisites
 
@@ -200,18 +200,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@Ariful129](https://github.com/Ariful129)
 - Email: [your-email@example.com](mailto:your-email@example.com)
 
-## 🙏 Acknowledgments
 
-- Thanks to all contributors who helped make this project possible
-- Special thanks to the MERN stack community for excellent documentation
-- Firebase for reliable hosting services
 
-## 📞 Support
-
-If you have any questions or need help with the project, please feel free to:
-- Open an issue on GitHub
-- Contact the maintainer directly
-- Check the documentation for common solutions
 
 ---
 
