@@ -57,7 +57,7 @@ A comprehensive hall management system built with the MERN stack (MongoDB, Expre
 
 Before running this project, make sure you have the following installed:
 
-- Node.js (v14.0.0 or higher)
+- Node.js
 - npm or yarn package manager
 - MongoDB (local installation or MongoDB Atlas account)
 - Git
